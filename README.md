@@ -1,1 +1,1 @@
-#Implementing Euclidean Distance with Python.
+# Implementing Euclidean Distance with Python.
